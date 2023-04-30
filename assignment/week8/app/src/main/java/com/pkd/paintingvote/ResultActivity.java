@@ -8,6 +8,12 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/* **********************************************
+ * 프로젝트명 :  PaintingVote
+ * 파일명 : ResultActivity
+ * 작성일 : 2022.04.30
+ * 프로그램 설명 : MainActivity에서 투표한 결과를 출력한다.
+ ************************************************/
 public class ResultActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

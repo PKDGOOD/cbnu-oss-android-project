@@ -8,6 +8,12 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/* **********************************************
+ * 프로젝트명 :  PaintingVote
+ * 파일명 : MainActivity
+ * 작성일 : 2022.04.30
+ * 프로그램 설명 :  9개의 명화를 출력하고 선택시 투표수 1씩 증가시킨다.
+ ************************************************/
 public class MainActivity extends AppCompatActivity {
 
     @Override
